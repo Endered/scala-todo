@@ -13,3 +13,6 @@ target/
 
 #general
 *.class
+
+# other
+db-data
